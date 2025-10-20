@@ -1,0 +1,5 @@
+Today i created a webpage using html and css 
+which contains a header,hero,footer sections
+i used flexbox to create header
+i used grid to create footer
+also used a media query for screen sizes less then 500px
