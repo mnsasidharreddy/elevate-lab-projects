@@ -1,0 +1,39 @@
+html{
+    background-color:wheat;
+}
+
+h1{
+    text-align: center;
+    font-size: 250%;
+    padding-top: 20px;
+}
+
+#container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:20vh;
+}
+
+
+button{
+    border: 0;
+    background-color: black;
+    color: white;
+    margin-left: 5px
+}
+
+.completed{
+    color:green;
+}
+
+.listContainer{
+    padding-left: 40%;
+    font-size: 3rem;
+    font-family:'Times New Roman', Times, serif
+}
+
+deleteButton{
+    background-color: red;
+    color: white;
+}
