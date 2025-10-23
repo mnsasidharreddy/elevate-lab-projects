@@ -1,4 +1,4 @@
-Note :- run npm install after cloning the repository
+Note :- run npm install after cloning the repository (because can't upload node_modules)
 
 Today i created a local server and built a simple REST API endpoints for CRUD operations on books.
 
