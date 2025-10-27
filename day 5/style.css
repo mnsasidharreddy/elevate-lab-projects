@@ -1,0 +1,45 @@
+html{
+    background-color: black;
+    color: whitesmoke;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    border: 2px solid white;
+    padding: 1%;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+    font-size:large;
+}
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+#SignUp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#Login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width initial-scale=1.0 minimum-scale=1.0">
+        <meta charset="UTF-8">
+        <title>Day 5 Static Website</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav>
+            <a href="login.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <section id="Login">
+            <form id="login">
+            <h1>Login</h1>
+            <p><label for="username">Username: </label><input type="text" id="username" placeholder="Enter Your Username" minlength="3" maxlength="16" required></p>
+            <p><label for="password">Password: </label><input type="password" id="password" placeholder="Enter Your Password" minlength="8" maxlength="16" required></p></p>
+            <p><label for="rememberMe">Remember me </label><input type="checkbox" id="rememberMe" checked> <label for="terms">Accept <a href="t&c.html">Terms & Conditions</a> </label><input type="checkbox" id="terms" required></p>
+            <p><input type="submit" value="Login"></p>
+            </form>
+        </section>
+        <p id="output"></p>
+        <p>Create A New Account? <a href="signup.html"><button>Click Here</button></a></p>
+        <footer>Designed By Sasidhar</footer>
+        <script src="index.js"></script>
+    </body>
+</html>
