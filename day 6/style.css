@@ -1,0 +1,48 @@
+html{
+  background-color: chartreuse;
+}
+
+h1{
+  text-align: center;
+}
+
+
+form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 5px solid;
+  font-family: Arial, sans-serif;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+button{
+  margin-left: 43%;
+}
+
+footer{
+  text-align: center;
+  font-size: larger;
+}
+
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}
+
+#successMessage {
+  color: green;
+  margin-top: 15px;
+}
