@@ -1,0 +1,23 @@
+.row{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4,18rem);
+    grid-template-rows: repeat(3,auto);
+    gap:20px;
+}
+
+@media (max-width:1025px) and (min-width:768px) {
+    .row{grid-template-columns: repeat(3,15rem);}
+}
+
+@media (max-width:767px) and (min-width:480px) {
+    body{font-size:1.2rem;}
+    header{font-size: 2rem;}
+    .row{grid-template-columns: repeat(2,14rem);}
+}
+
+@media (max-width:479px){
+    header{font-size: 1rem;}
+    body{font-size: 0.9rem;}
+    .row{grid-template-columns: repeat(1,18rem);}
+}
