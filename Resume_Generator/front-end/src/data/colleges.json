@@ -1,0 +1,41 @@
+{
+  "Intermediate Colleges": [
+    "Narayana Junior College, Vijayawada",
+    "Sri Chaitanya Junior College, Visakhapatnam",
+    "Bhashyam Junior College, Guntur",
+    "Dr. K.K.R. Gowtham Junior College, Nellore",
+    "Sree Vidyanikethan Junior College, Tirupati",
+    "Aditya Junior College, Kakinada",
+    "Gayatri Junior College, Vizianagaram",
+    "Nirmala Junior College, Kadapa",
+    "St. Ann’s Junior College, Kurnool",
+    "Sri Prakash Junior College, East Godavari",
+    "Other Intermediate Colleges"
+  ],
+  "UG Colleges": [
+    "Andhra Loyola College, Vijayawada",
+    "St. Joseph’s Degree College, Kurnool",
+    "P.B. Siddhartha College of Arts & Science, Vijayawada",
+    "Vivekananda Degree College, Hyderabad",
+    "St. Francis College for Women, Hyderabad",
+    "St. Mary’s College, Hyderabad",
+    "Aurora Degree College, Hyderabad",
+    "Badruka College of Commerce & Arts, Hyderabad",
+    "Nizam College, Hyderabad",
+    "Kakatiya Government College, Warangal",
+    "Other UG Colleges"
+  ],
+  "PG Colleges": [
+    "Loyola PG College, Secunderabad",
+    "St. Ann’s PG College, Hyderabad",
+    "Villa Marie PG College, Hyderabad",
+    "St. Francis PG College, Secunderabad",
+    "Aurora PG College, Hyderabad",
+    "Badruka PG College, Hyderabad",
+    "Sri Vani PG College, Vijayawada",
+    "Pragathi PG College, Guntur",
+    "Sri Sai PG College, Tirupati",
+    "Vivekananda PG College, Karimnagar",
+    "Other PG Colleges"
+  ]
+}

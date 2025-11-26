@@ -1,0 +1,46 @@
+{
+  "intermediate": [
+    "Science",
+    "Commerce",
+    "Arts",
+    "Vocational",
+    "Other"
+  ],
+  "undergraduate": [
+    "B.Tech",
+    "B.Arch",
+    "B.Sc",
+    "B.Com",
+    "B.A",
+    "BBA",
+    "BCA",
+    "LLB",
+    "MBBS",
+    "BDS",
+    "B.Pharm",
+    "B.Sc Nursing",
+    "BPT",
+    "BFA",
+    "BHM",
+    "Other"
+  ],
+  "postgraduate": [
+    "M.Tech",
+    "M.Sc",
+    "M.Com",
+    "M.A",
+    "MBA",
+    "MCA",
+    "LLM",
+    "MD/MS",
+    "MDS",
+    "M.Pharm",
+    "M.Sc Nursing",
+    "MPT",
+    "MFA",
+    "MHM",
+    "M.Ed",
+    "Ph.D",
+    "Other"
+  ]
+}
